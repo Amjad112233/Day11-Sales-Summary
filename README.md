@@ -3,18 +3,18 @@ Sales Summary
 This project analyzes sales data using Pandas groupby.
 
 Features
-Group sales by category
-Calculate total revenue
-Simple business insights
+- Group sales by category
+- Calculate total revenue
+- Simple business insights
 
 Concepts Used
-Pandas groupby
-Data aggregation
-CSV handling
+- Pandas groupby
+- Data aggregation
+- CSV handling
 
 Tech Used
-Python
-Pandas
+- Python
+- Pandas
 
 Author
-Amjad Iqbal
+- Amjad Iqbal
